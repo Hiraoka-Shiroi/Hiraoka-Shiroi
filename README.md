@@ -34,7 +34,7 @@ My main focus is **real-world development skills**, not just frameworks.
 
 ### Core Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,npm" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,npm,python" />
 
 ### Tools & Development
 
@@ -43,10 +43,6 @@ My main focus is **real-world development skills**, not just frameworks.
 ### Environment
 
 <img src="https://skillicons.dev/icons?i=linux,windows" />
-
-### Learning
-
-<img src="https://skillicons.dev/icons?i=python" />
 
 </div>
 
@@ -119,22 +115,6 @@ My main focus is **real-world development skills**, not just frameworks.
 - Strengthen UI/UX and architecture thinking  
 - Improve problem-solving skills  
 - Stay consistent in development practice  
-
-</div>
-
----
-
-## Philosophy
-
-<div align="center">
-
-Clean code is not optional — it's a habit.
-
-I focus on writing code that is:
-- readable
-- scalable
-- maintainable
-- predictable
 
 </div>
 
