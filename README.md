@@ -1,10 +1,10 @@
 # Hiraoka-Shiroi
 
-### Frontend Developer | React Developer | Linux & Windows User
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;JavaScript+Developer;Building+Modern+Web+Applications;Learning+and+Improving+Every+Day" />
+### Frontend Developer | React Developer | Linux & Windows User
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;JavaScript+Developer;Building+Modern+Web+Applications;Continuous+Learning+Developer" />
 
 <br>
 
@@ -18,21 +18,11 @@
 
 <div align="center">
 
-Frontend Developer focused on building modern web applications using React and JavaScript.
+Frontend Developer focused on building modern web applications with React and JavaScript.
 
-I like working on clean, simple and functional interfaces, and improving my coding skills step by step through real practice and projects.
+I prefer clean UI, structured code, and improving through real development practice.
 
 </div>
-
-<br>
-
-- 💻 Frontend Developer  
-- ⚛️ React Ecosystem  
-- 🐍 Learning Python  
-- 🐧 Linux Mint User  
-- 🪟 Windows User (daily usage)  
-- 🤖 Using AI tools for learning and productivity  
-- 📚 Practicing problem solving and coding challenges  
 
 ---
 
@@ -40,23 +30,30 @@ I like working on clean, simple and functional interfaces, and improving my codi
 
 <div align="center">
 
+### Core Languages
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
+<br>
+
+### Frontend
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+
+<br>
+
+### Tools & Environment
+<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
 </div>
-
-### Environment
-- Linux Mint (main development OS)
-- Windows (secondary system / daily use)
-- Git & GitHub
-- VS Code
-
-### Currently Learning
-- Python basics
-- React improvement & patterns
-- Better JavaScript understanding
 
 ---
 
@@ -67,14 +64,9 @@ I like working on clean, simple and functional interfaces, and improving my codi
 <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 
 </div>
-
-- ChatGPT — explanations and learning  
-- Claude — coding help and refactoring ideas  
-- Gemini — alternative solutions  
-- GitHub Copilot — coding assistance  
 
 ---
 
@@ -90,7 +82,7 @@ I like working on clean, simple and functional interfaces, and improving my codi
 
 ---
 
-## 📈 Activity
+## 📈 Activity Graph
 
 <div align="center">
 
@@ -114,10 +106,14 @@ I like working on clean, simple and functional interfaces, and improving my codi
 
 ## 🎯 Goals
 
-- Improve React and JavaScript skills  
-- Build real-world projects  
-- Become more confident in frontend development  
-- Continue learning and practicing every day  
+<div align="center">
+
+- Improve React & JavaScript skills  
+- Build production-level projects  
+- Strengthen frontend architecture understanding  
+- Continue consistent development practice  
+
+</div>
 
 ---
 
