@@ -109,6 +109,8 @@ My main focus is **real-world development skills**, not just frameworks.
 
 </div>
 
+</div>
+
 ---
 
 ## 📊 GitHub Stats
