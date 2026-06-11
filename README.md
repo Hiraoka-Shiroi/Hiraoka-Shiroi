@@ -85,29 +85,10 @@ My main focus is **real-world development skills**, not just frameworks.
 
 ### AI Tools
 
-<div style="display: flex; justify-content: center; gap: 18px; flex-wrap: wrap;">
-
-  <div align="center">
-    <img src="https://cdn.simpleicons.org/openai/white" width="48" height="48"/><br/>
-    ChatGPT
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.simpleicons.org/google/4285F4" width="48" height="48"/><br/>
-    Gemini
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.simpleicons.org/notion/white" width="48" height="48"/><br/>
-    NotebookLM
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.simpleicons.org/githubcopilot/white" width="48" height="48"/><br/>
-    Copilot
-  </div>
-
-</div>
+<img src="https://cdn.simpleicons.org/openai/white" width="48" height="48"/> ChatGPT  
+<img src="https://cdn.simpleicons.org/google/4285F4" width="48" height="48"/> Gemini  
+<img src="https://cdn.simpleicons.org/notion/white" width="48" height="48"/> NotebookLM  
+<img src="https://cdn.simpleicons.org/githubcopilot/white" width="48" height="48"/> Copilot  
 
 </div>
 
