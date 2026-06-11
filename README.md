@@ -1,5 +1,5 @@
 ## Hi there 👋
-![snake gif](https://github.com/Hiraoka-Shiroi/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Hiraoka-Shiroi/Hiraoka-Shiroi/blob/output/github-snake-dark.svg)
 <!--
 **Hiraoka-Shiroi/Hiraoka-Shiroi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
