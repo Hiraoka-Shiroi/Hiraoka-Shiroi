@@ -68,32 +68,16 @@ My main focus is **real-world development skills**, not just frameworks.
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 
-<div align="center">
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" /><br/>
-      ChatGPT
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Claude-1F1F1F?style=flat-square" /><br/>
-      Claude
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" /><br/>
-      Gemini
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/NotebookLM-F9AB00?style=flat-square&logo=google&logoColor=black" /><br/>
-      NotebookLM
-    </td>
-  </tr>
-</table>
-
 </div>
+
+<div align="center">
+
+### AI Tools
+
+<img src="https://cdn.simpleicons.org/openai/white" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/google/4285F4" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/notion/white" width="48" height="48"/>
+<img src="https://cdn.simpleicons.org/githubcopilot/white" width="48" height="48"/>
 
 </div>
 
