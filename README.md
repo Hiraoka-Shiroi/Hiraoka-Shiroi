@@ -81,6 +81,36 @@ My main focus is **real-world development skills**, not just frameworks.
 
 </div>
 
+<div align="center">
+
+### AI Tools
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=openai" width="48" height="48"/><br/>
+      ChatGPT
+    </td>
+
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=google" width="48" height="48"/><br/>
+      Gemini
+    </td>
+
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=notion" width="48" height="48"/><br/>
+      NotebookLM
+    </td>
+
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br/>
+      Copilot
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ---
 
 ## 📊 GitHub Stats
