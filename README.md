@@ -1,68 +1,78 @@
 # HIRAOKA
 
-### Frontend Developer | React Developer | Linux User
+> Frontend Engineer • React Specialist • Linux Environment User  
+> Focused on building scalable, maintainable and performant web applications.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;JavaScript+Developer;Linux+User;Building+Modern+Web+Applications;Learning+AI+and+Cybersecurity" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Hiraoka-Shiroi&style=for-the-badge&color=blue"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=800&lines=Frontend+Engineer;React+Developer;JavaScript+%26+TypeScript+Focused;Building+Scalable+Web+Systems;Learning+System+Design+%26+Security" />
 
 ---
 
-## 🚀 About Me
+## Overview
 
-💻 Frontend Developer
+Frontend Engineer focused on building **modern, high-performance web applications** with React ecosystem.
 
-⚛️ Learning React Ecosystem
+I care about:
+- Clean architecture
+- Performance optimization
+- Maintainable codebases
+- Developer experience (DX)
+- System thinking in frontend applications
 
-🐍 Learning Python
-
-🐧 Linux Mint User
-
-🪟 Familiar with Windows environment
-
-🤖 Using AI tools to improve productivity and learning
-
-🧠 Interested in Cybersecurity
-
-📚 Solving programming challenges on LeetCode
-
-🎯 Goal: Become a Senior Developer and continuously improve my programming skills
+Currently expanding into **system design concepts**, **advanced JavaScript internals**, and **cybersecurity fundamentals**.
 
 ---
 
-## 🤖 AI & Development Tools
+## Tech Stack
+
+### Core
+- JavaScript (ES6+)
+- React
+- HTML5 / CSS3
+
+### Ecosystem
+- Git / GitHub
+- Linux Mint (primary development environment)
+- Windows (secondary environment / compatibility testing)
+- VS Code
+
+### Currently Improving
+- TypeScript (advanced usage)
+- React architecture patterns
+- Web performance optimization
+- Data structures & algorithms
+- Python (for tooling & automation)
+- Cybersecurity fundamentals
+
+---
+
+## Engineering Focus
+
+- Component-driven architecture
+- State management strategies
+- Performance profiling & optimization
+- Reusable UI systems
+- Clean code principles (SOLID, DRY, KISS where applicable)
+- Debugging complex frontend issues
+
+---
+
+## AI-Assisted Development Workflow
+
+I use AI tools as part of my development workflow:
+
+- ChatGPT — conceptual understanding, debugging, explanations
+- Claude — code refactoring and architecture feedback
+- Gemini — alternative approaches and analysis
+- NotebookLM — structured knowledge base and documentation
+- GitHub Copilot — inline development acceleration
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NotebookLM-F9AB00?style=for-the-badge&logo=google&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-
-</div>
-
-### AI Workflow
-
-* ChatGPT — learning, explanations, research
-* Claude Code — coding and refactoring
-* Gemini — alternative solutions and analysis
-* NotebookLM — notes and documentation
-* GitHub Copilot — coding assistance
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hiraoka-Shiroi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hiraoka-Shiroi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiraoka-Shiroi&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -70,7 +80,7 @@
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -80,37 +90,53 @@
 
 ---
 
-## 💻 LeetCode Profile
+## Problem Solving
+
+LeetCode Profile:  
+https://leetcode.com/u/Hiraoka_/
+
+Focus:
+- Algorithms fundamentals
+- Data structures
+- Logical thinking under constraints
+- Interview preparation
+
+---
+
+## Development Environment
+
+- OS: Linux Mint (primary)
+- Shell: Bash
+- Editor: VS Code
+- Version Control: Git
+
+---
+
+## Current Goals
+
+- Reach Senior-level frontend engineering skills
+- Deep understanding of React internals
+- Improve system design thinking
+- Build production-grade open source projects
+- Strengthen algorithmic problem solving
+- Gain practical cybersecurity knowledge
+
+---
+
+## Philosophy
+
+> "Good software is not written — it is engineered."
+
+I focus on writing code that:
+- scales
+- is readable
+- is maintainable
+- and survives real-world usage
+
+---
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Hiraoka_/">
-
-<img src="https://leetcard.jacoblin.cool/Hiraoka_?theme=dark&font=Fira+Code"/>
-
-</a>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Hiraoka-Shiroi/Hiraoka-Shiroi/output/github-snake-dark.svg)
-
----
-
-## 🎯 Current Goals
-
-* Become a Senior Developer
-* Improve JavaScript and React skills
-* Build better projects
-* Learn more about AI tools
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile
+## Thanks for visiting
 
 </div>
