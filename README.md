@@ -1,10 +1,6 @@
-<div align="center">
+# HIRAOKA
 
-<img src="https://raw.githubusercontent.com/Hiraoka-Shiroi/Hiraoka-Shiroi/main/banner.png" />
-
-# 👋 Hi, I'm Hiraoka
-
-### Frontend Developer • React Enthusiast • Linux User
+### Frontend Developer | React Developer | Linux User
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;JavaScript+Developer;Linux+User;Building+Modern+Web+Applications;Learning+AI+and+Cybersecurity" />
 
@@ -12,61 +8,27 @@
 
 <img src="https://komarev.com/ghpvc/?username=Hiraoka-Shiroi&style=for-the-badge&color=blue"/>
 
-</div>
-
 ---
 
 ## 🚀 About Me
 
-💻 Frontend Developer focused on modern web technologies
+💻 Frontend Developer
 
-⚛️ Learning React ecosystem and frontend architecture
+⚛️ Learning React Ecosystem
 
 🐍 Learning Python
 
-🐧 Daily Linux Mint user
+🐧 Linux Mint User
 
-🤖 Exploring AI tools and workflows
+🪟 Familiar with Windows environment
+
+🤖 Using AI tools to improve productivity and learning
 
 🧠 Interested in Cybersecurity
 
 📚 Solving programming challenges on LeetCode
 
-🌱 Constantly improving development skills through projects
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://hiraoka-shiroi.github.io/PortFolioHiraoka/">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefoxbrowser&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/hiraoka-shiroi-a52b25405/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://www.instagram.com/hiraoka.it/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="https://t.me/FameHira">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,linux,git,github,vscode,npm" />
-
-</div>
+🎯 Goal: Become a Senior Developer and continuously improve my programming skills
 
 ---
 
@@ -86,13 +48,13 @@
 
 </div>
 
-### Current AI Workflow
+### AI Workflow
 
-* ChatGPT for learning, research and explanations
-* Claude Code for code generation and refactoring
-* Gemini for alternative solutions and analysis
-* NotebookLM for notes, documentation and knowledge management
-* GitHub Copilot for coding assistance
+* ChatGPT — learning, explanations, research
+* Claude Code — coding and refactoring
+* Gemini — alternative solutions and analysis
+* NotebookLM — notes and documentation
+* GitHub Copilot — coding assistance
 
 ---
 
@@ -103,16 +65,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hiraoka-Shiroi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiraoka-Shiroi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Hiraoka-Shiroi&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -148,40 +100,12 @@
 
 ---
 
-## 📌 Featured Technologies
+## 🎯 Current Goals
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,linux,git,github" />
-
-</div>
-
----
-
-## 📂 Featured Projects
-
-| Project             | Description                    |
-| ------------------- | ------------------------------ |
-| Portfolio           | Personal developer portfolio   |
-| React Projects      | Learning and practice projects |
-| JavaScript Projects | Core frontend development      |
-| Python Scripts      | Automation and learning        |
-| Linux Configs       | Linux setup and customization  |
-
----
-
-## 🎯 Current Focus
-
-* React Development
-* JavaScript Fundamentals
-* Frontend Architecture
-* Python Development
-* Artificial Intelligence
-* Cybersecurity Fundamentals
+* Become a Senior Developer
+* Improve JavaScript and React skills
+* Build better projects
+* Learn more about AI tools
 
 ---
 
