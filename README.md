@@ -1,14 +1,14 @@
 <div align="center">
-  
-# Hiraoka-Shiroi
+
+  # Hiraoka-Shiroi
 
 </div>
 
 <div align="center">
 
-### Frontend Developer | React Developer | Linux & Windows User
+### Frontend Developer | React Developer | JavaScript Engineer | Linux & Windows User
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;JavaScript+Developer;Building+Modern+Web+Applications;Continuous+Learning+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=800&lines=Frontend+Developer;React+Developer;JavaScript+Engineer;Building+Modern+Web+Applications;Focused+on+Clean+Code+%26+Performance" />
 
 <br>
 
@@ -18,15 +18,13 @@
 
 ---
 
-## 🚀 About Me
+## About
 
-<div align="center">
+Frontend Developer focused on building modern, scalable and maintainable web applications.
 
-Frontend Developer focused on building modern web applications with React and JavaScript.
+I enjoy working with React ecosystem, improving UI architecture, and writing clean and predictable code.
 
-I prefer clean UI, structured code, and improving through real development practice.
-
-</div>
+My main focus is **real-world development skills**, not just frameworks.
 
 ---
 
@@ -34,34 +32,38 @@ I prefer clean UI, structured code, and improving through real development pract
 
 <div align="center">
 
-### Core Languages
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+### Core Stack
 
-<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,npm" />
 
-### Frontend
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+### Tools & Development
 
-<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-### Tools & Environment
-<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+### Environment
+
+<img src="https://skillicons.dev/icons?i=linux,windows" />
+
+### Learning
+
+<img src="https://skillicons.dev/icons?i=python" />
 
 </div>
 
 ---
 
-## 🤖 AI Tools
+## Engineering Focus
+
+- Component-based architecture
+- React state management patterns
+- UI performance optimization
+- Reusable component systems
+- Clean and maintainable code
+- Debugging real-world frontend issues
+
+---
+
+## AI Tools
 
 <div align="center">
 
@@ -79,14 +81,13 @@ I prefer clean UI, structured code, and improving through real development pract
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hiraoka-Shiroi&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiraoka-Shiroi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity
 
 <div align="center">
 
@@ -96,10 +97,11 @@ I prefer clean UI, structured code, and improving through real development pract
 
 ---
 
-## 💻 LeetCode
+## 💻 Coding Profile
 
 <div align="center">
 
+### LeetCode
 <a href="https://leetcode.com/u/Hiraoka_/">
 <img src="https://leetcard.jacoblin.cool/Hiraoka_?theme=dark&font=Fira+Code"/>
 </a>
@@ -108,14 +110,31 @@ I prefer clean UI, structured code, and improving through real development pract
 
 ---
 
-## 🎯 Goals
+## Goals
 
 <div align="center">
 
-- Improve React & JavaScript skills  
-- Build production-level projects  
-- Strengthen frontend architecture understanding  
-- Continue consistent development practice  
+- Improve React and JavaScript fundamentals  
+- Build production-level frontend projects  
+- Strengthen UI/UX and architecture thinking  
+- Improve problem-solving skills  
+- Stay consistent in development practice  
+
+</div>
+
+---
+
+## Philosophy
+
+<div align="center">
+
+Clean code is not optional — it's a habit.
+
+I focus on writing code that is:
+- readable
+- scalable
+- maintainable
+- predictable
 
 </div>
 
