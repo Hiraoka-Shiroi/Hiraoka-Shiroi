@@ -85,29 +85,27 @@ My main focus is **real-world development skills**, not just frameworks.
 
 ### AI Tools
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=openai" width="48" height="48"/><br/>
-      ChatGPT
-    </td>
+<div style="display: flex; justify-content: center; gap: 18px; flex-wrap: wrap;">
 
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=google" width="48" height="48"/><br/>
-      Gemini
-    </td>
+  <div align="center">
+    <img src="https://cdn.simpleicons.org/openai/white" width="48" height="48"/><br/>
+    ChatGPT
+  </div>
 
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=notion" width="48" height="48"/><br/>
-      NotebookLM
-    </td>
+  <div align="center">
+    <img src="https://cdn.simpleicons.org/google/4285F4" width="48" height="48"/><br/>
+    Gemini
+  </div>
 
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br/>
-      Copilot
-    </td>
-  </tr>
-</table>
+  <div align="center">
+    <img src="https://cdn.simpleicons.org/notion/white" width="48" height="48"/><br/>
+    NotebookLM
+  </div>
+
+  <div align="center">
+    <img src="https://cdn.simpleicons.org/githubcopilot/white" width="48" height="48"/><br/>
+    Copilot
+  </div>
 
 </div>
 
