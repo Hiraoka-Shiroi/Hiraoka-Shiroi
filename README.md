@@ -134,7 +134,7 @@ Interested in:
 
 ## 🐍 Snake Eating My Contributions
 
-![Snake animation](https://raw.githubusercontent.com/Hiraoka-Shiroi/Hiraoka-Shiroi/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Hiraoka-Shiroi/Hiraoka-Shiroi/blob/output/github-snake-dark.svg)
 
 ---
 
